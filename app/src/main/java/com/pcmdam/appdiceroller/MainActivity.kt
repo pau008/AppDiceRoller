@@ -55,7 +55,6 @@ class MainActivity : AppCompatActivity() {
 
             var total = cost + (cost * percentage)
 
-            // Redondear el total si el Switch está habilitado
             if (roundSwitch.isChecked) {
                 total = Math.ceil(total).toDouble()
             }
