@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
         amazingRadio = findViewById(R.id.amazingRadio)
         goodRadio = findViewById(R.id.goodRadio)
         okayRadio = findViewById(R.id.okayRadio)
-        roundSwitch = findViewById(R.id.roundSwitch) // Agregado el Switch
+        roundSwitch = findViewById(R.id.roundSwitch)
         calculateButton = findViewById(R.id.calculateButton)
         resultTextView = findViewById(R.id.resultTextView)
         titleTextView = findViewById(R.id.titleTextView)
