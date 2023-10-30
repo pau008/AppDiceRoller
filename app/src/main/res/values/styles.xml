@@ -1,0 +1,8 @@
+<resources>
+    <!-- Definición de un estilo llamado "SplashTheme" -->
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Personaliza las propiedades del estilo aquí -->
+    </style>
+
+    <!-- Otros estilos pueden ir aquí -->
+</resources>

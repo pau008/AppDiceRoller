@@ -85,8 +85,8 @@
         android:layout_below="@id/okayRadio"
         android:layout_alignParentBottom="true"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="17dp"
-        android:layout_marginBottom="414dp"
+        android:layout_marginTop="77dp"
+        android:layout_marginBottom="367dp"
         android:text="Quieres redondearlo?"
         tools:ignore="NotSibling" />
 
@@ -96,9 +96,9 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/okayRadio"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="185dp"
-        android:layout_marginTop="13dp"
-        android:layout_marginBottom="410dp"
+        android:layout_marginStart="184dp"
+        android:layout_marginTop="74dp"
+        android:layout_marginBottom="362dp"
         android:layout_toEndOf="@id/roundText"
         tools:ignore="NotSibling" />
 
